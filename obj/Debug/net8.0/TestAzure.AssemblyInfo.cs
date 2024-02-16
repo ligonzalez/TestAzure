@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestAzure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+190917e0d2801f08896c38010e3f7b08af231e3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+683b883e8f48bf1e0d46a3833a9a3cfb7f93f6df")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestAzure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestAzure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
